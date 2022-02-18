@@ -1,8 +1,10 @@
 {
   "name": "codesandbox-ci-example",
   "private": true,
-  "version": "0.0.0",
-  "files": ["dist"],
+  "version": "0.0.1",
+  "files": [
+    "dist"
+  ],
   "main": "./dist/codesandbox-ci-example.umd.js",
   "module": "./dist/codesandbox-ci-example.es.js",
   "exports": {
