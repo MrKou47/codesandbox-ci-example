@@ -1,6 +1,6 @@
 class Example {
   say() {
-    throw new Error("This bug should be fixed!");
+    console.log('nice work!');
   }
 }
 
